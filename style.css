@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+img:hover{
+    content: URL(it.webp);
+    width: 30;
+    height: 30%;
+
+}
